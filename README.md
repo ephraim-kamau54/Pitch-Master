@@ -10,6 +10,11 @@ Application to help you pitch.
 
   <https://pitch-master.herokuapp.com/>
 
+## Screenshot
+
+![screenshot](./pitchapp screenshot.png)
+
+
 ## BDD
 
 | Behavior- Our program should handle: | Input Example- When it receives: | Output Example- It should return: |
