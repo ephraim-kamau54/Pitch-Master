@@ -12,8 +12,7 @@ Application to help you pitch.
 
 ## Screenshot
 
-![screenshot](./pitchapp screenshot.png)
-
+![screenshot](./pic.png)
 
 ## BDD
 
